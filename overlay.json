@@ -1,0 +1,13 @@
+{
+"contact": "@Albertamere on discord",
+"templates": 
+[
+	{
+		"name": "NewSpyCrab",
+		"sources": ["https://i.imgur.com/aJfDX6u.png"],
+		"x": 1070, "y": 190
+	}
+],
+"whitelist": [],
+"blacklist": []
+}
