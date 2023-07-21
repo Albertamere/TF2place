@@ -3,12 +3,12 @@
 "templates": 
 [
 	{
-		"name": "NewSpyCrab",
-		"sources": ["https://i.imgur.com/aJfDX6u.png"],
+		"name": "NewSpyCrabRED blush",
+		"sources": ["https://i.imgur.com/CWit8FZ.png"],
 		"x": 5, "y": 711
 	},
 	{
-		"name": "NewSpyCrab",
+		"name": "NewSpyCrabBLU",
 		"sources": ["https://i.imgur.com/l5VQCDP.png"],
 		"x": 97, "y": 711
 	}
