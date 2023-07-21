@@ -5,12 +5,12 @@
 	{
 		"name": "NewSpyCrab",
 		"sources": ["https://i.imgur.com/aJfDX6u.png"],
-		"x": 5, "y": 710
+		"x": 5, "y": 711
 	},
 	{
 		"name": "NewSpyCrab",
 		"sources": ["https://i.imgur.com/l5VQCDP.png"],
-		"x": 101, "y": 710
+		"x": 107, "y": 711
 	}
 ],
 "whitelist": [],
